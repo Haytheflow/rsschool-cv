@@ -3,8 +3,8 @@ Artyom Semyonov
 
 Contacts
 ===
->**-** **Discord** - *Kharinza#3638*   
->**-** **Email** - *pconsequen@mail.ru*
+>**-** ***Discord*** - *Kharinza#3638*   
+>**-** ***Email*** - *pconsequen@mail.ru*
 
 About Me
 ===
@@ -25,5 +25,5 @@ Education
 
 Languages
 ===
->**-** *Russian - intermediate*   
->**-** *English - beginner*
+>**-** **Russian** - *intermediate*   
+>**-** **English** - *beginner*
